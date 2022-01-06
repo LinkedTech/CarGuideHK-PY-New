@@ -1,0 +1,4 @@
+1) Dependencies
+    a) Save: pip freeze > requirements.txt
+    b) Load: pip install -r requirements.txt
+2) Execution
